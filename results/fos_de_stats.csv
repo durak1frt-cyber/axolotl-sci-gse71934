@@ -1,0 +1,5 @@
+"contrast","probe_id","logFC","adj.P.Val","status"
+"dpi1_vs_uninjured","axo10931-f_at",2.65338737295425,4.52507272030871e-13,"Up"
+"dpi3_vs_uninjured","axo10931-f_at",-2.40417101432028,6.0267150216931e-13,"Down"
+"dpi7_vs_uninjured","axo10931-f_at",-1.44503671277111,1.94339112142982e-10,"Down"
+"ivermectin_vs_dpi1","axo10931-f_at",-3.6754374589041,9.73365303580105e-15,"Down"

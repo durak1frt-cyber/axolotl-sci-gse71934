@@ -1,0 +1,16 @@
+gsm,cel_file,group,replicate,geo_title
+GSM1847505,GSM1847505_SCI_Control_1_AMBY_002a520748F_.CEL.gz,uninjured,1,uninjured tissue - rep 1
+GSM1847506,GSM1847506_SCI_Control_2_AMBY_002a520748F_.CEL.gz,uninjured,2,uninjured tissue - rep 2
+GSM1847507,GSM1847507_SCI_Control_3_AMBY_002a520748F_.CEL.gz,uninjured,3,uninjured tissue - rep 3
+GSM1847508,GSM1847508_SC_Crush1_dpi_1_AMBY_002a520748F_.CEL.gz,dpi1,1,1 day post injury - rep 1
+GSM1847509,GSM1847509_SC_Crush1_dpi_2_AMBY_002a520748F_.CEL.gz,dpi1,2,1 day post injury - rep 2
+GSM1847510,GSM1847510_SC_Crush1_dpi_3_AMBY_002a520748F_.CEL.gz,dpi1,3,1 day post injury - rep 3
+GSM1847511,GSM1847511_SC_Crush3_dpiB_1_AMBY_002a520748F_.CEL.gz,dpi3,1,3 days post injury - rep 1
+GSM1847512,GSM1847512_SC_Crush3_dpiB_2_AMBY_002a520748F_.CEL.gz,dpi3,2,3 days post injury - rep 2
+GSM1847513,GSM1847513_SC_Crush3_dpiB_3_AMBY_002a520748F_.CEL.gz,dpi3,3,3 days post injury - rep 3
+GSM1847514,GSM1847514_SC_Crush7_dpi_1_AMBY_002a520748F_1_.CEL.gz,dpi7,1,7 days post injury - rep 1
+GSM1847515,GSM1847515_SC_Crush7_dpi_2_AMBY_002a520748F_.CEL.gz,dpi7,2,7 days post injury - rep 2
+GSM1847516,GSM1847516_SC_Crush7_dpi_3_AMBY_002a520748F_.CEL.gz,dpi7,3,7 days post injury - rep 3
+GSM1847517,GSM1847517_IVER_1_AMBY_002a520748F_.CEL.gz,ivermectin_dpi1,1,ivermectin treated 1 day post injury - rep 1
+GSM1847518,GSM1847518_IVER_2_AMBY_002a520748F_.CEL.gz,ivermectin_dpi1,2,ivermectin treated 1 day post injury - rep 2
+GSM1847519,GSM1847519_IVER_3_AMBY_002a520748F_.CEL.gz,ivermectin_dpi1,3,ivermectin treated 1 day post injury - rep 3

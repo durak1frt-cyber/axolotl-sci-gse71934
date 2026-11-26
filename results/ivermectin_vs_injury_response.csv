@@ -1,0 +1,5 @@
+"metric","value"
+"DE probesets, 1 dpi vs uninjured",1426
+"DE probesets, ivermectin 1 dpi vs uninjured (same thresholds)",32
+"Median |log2FC| of 1 dpi DE probesets, 1 dpi vs uninjured",1.3072414917356
+"Median |log2FC| of the same probesets, ivermectin 1 dpi vs uninjured",0.1481427216574
